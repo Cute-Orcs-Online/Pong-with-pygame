@@ -1,2 +1,2 @@
 # Pong-with-pygame
-My first independently programmed game
+My first independently programmed game!
